@@ -114,4 +114,4 @@ void loop() {
 
   u8g2.sendBuffer();
 
-  delay(100);
+  delay(100); //tguytuj thuyy
