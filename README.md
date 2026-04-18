@@ -14,6 +14,21 @@ Additionally, CUSLIUM provides directional awareness. When an obstacle is detect
 
 <img width="1488" height="850" alt="Screenshot 2025-11-03 204259" src="https://github.com/user-attachments/assets/1f9e58de-7eb4-4abc-b6b8-5f766163ed3b" />
 
+# CUSLIUM AWARDS
+
+![alt text](<Best science exhibit 2025.png>)
+
+![alt text](<1st place District Science and technology fair 2025.png>)
+
+![alt text](<2nd place Division Science and technology fair 2025.png>)
+
+![alt text](<1st place in Best Research Preseneter.png>)
+
+![alt text](<1st place in Best  Oral Research Preseneter.png>)
+
+![alt text](<2nd place Regional Science and technology fair 2025.png>)
+
+
 # CUSLIUM VERSIONS
 
 # V1
