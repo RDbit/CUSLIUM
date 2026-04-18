@@ -13,7 +13,7 @@ Additionally, CUSLIUM provides directional awareness. When an obstacle is detect
 
 # CUSLIUM SCHEMATIC DIAGRAM
 
-![alt image](https://github.com/RDbit/Fileimages/blob/32efb1138ae5acf2644212c3343ac084677bf02c/Cusliumfiles/CUSLIUM%20V5%20SCHEMATIC%20DIAGRAM.docx)
+![alt image](https://github.com/RDbit/Fileimages/blob/437054c3d79e8f14a47c8748b3d351b57d95178a/Cusliumfiles/Schematic%20diagram/Screenshot%202026-04-18%20095818.png)
 
 # CUSLIUM AWARDS
 
