@@ -114,4 +114,4 @@ void loop() {
 
   u8g2.sendBuffer();
 
-  delay(100); //tguytuj thuyyhgjgjgjyyjf
+  delay(100); //tguytuj thuyyhgjgjgjyyjf si ardee gwapo
