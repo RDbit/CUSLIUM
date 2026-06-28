@@ -1,21 +1,23 @@
-# CUSLIUM
-“CUSLIUM: A Wearable Ultrasonic Haptic Helmet for Proximity and Upper-Body level Obstacle Detection for the Visually Impaired,” focuses on developing an assistive device that enhances the mobility and safety of visually impaired individuals. The helmet detects obstacles at both head and ground levels and provides immediate vibration feedback to alert the user. Designed to be lightweight, comfortable, and easy to use, Cuslium complements traditional mobility aids such as white canes, offering more comprehensive obstacle awareness. Data on functionality, usability, and effectiveness were collected through participant trials, checklists, and interviews. Results indicate that the device reliably detects obstacles and delivers timely alerts, improving spatial awareness and reducing the risk of accidents. Overall, Cuslium demonstrates strong potential as a supportive technology that promotes independence, safety, and confidence for visually impaired users.
+## CUSLIUM
+“CUSLIUM: A Wearable Ultrasonic Haptic Helmet for Proximity and Upper-Body level Obstacle Detection for the Visually Impaired,” focuses on developing an assistive device that enhances the mobility and safety of visually impaired individuals. The helmet detects obstacles at head head level, provides immediate vibration feedback to alert the user. Designed to be lightweight, comfortable, and easy to use, Cuslium complements traditional mobility aids such as white canes, offering more comprehensive obstacle awareness. Data on functionality, usability, and effectiveness were collected through participant trials, checklists, and interviews. Results indicate that the device reliably detects obstacles and delivers timely alerts, improving spatial awareness and reducing the risk of accidents. Overall, Cuslium demonstrates strong potential as a supportive technology that promotes independence, safety, and confidence for visually impaired users.
 
-# CONCEPT
+CUSLIUM compose of two **latin word** **"Caecus"** which means **blind** and **"Auxlium"** means **Help**
+
+## CONCEPT
 <img width="1920" height="1080" alt="7514a6a3-3266-4aa0-b05a-ccaa5533e24c" src="https://github.com/user-attachments/assets/00c00cb3-7717-489e-a4c7-85f7b7b77484" />
 
 
-# PROXIMITY
+## PROXIMITY
 As shown in the figure below, CUSLIUM operates with a detection range of up to 1 meter, which can be further extended through software modification in the system code. As an obstacle moves closer to the ultrasonic sensor, the vibration feedback produced by the haptic module increases in intensity, allowing the user to perceive the proximity of the object in real time.
 
 Additionally, CUSLIUM provides directional awareness. When an obstacle is detected on a specific side—such as the right—the vibration motor corresponding to that direction is activated. Through the combination of vibration location (direction) and vibration intensity (distance), the user is able to identify both where the obstacle is located and how close it is, enabling faster reaction and safer navigation.
 <img width="1920" height="1080" alt="cb971c30-5dc9-490f-99d2-18c703105dff" src="https://github.com/user-attachments/assets/e3f9f57e-7054-40c2-be02-748c35481622" />
 
-# CUSLIUM SCHEMATIC DIAGRAM
+## CUSLIUM SCHEMATIC DIAGRAM
 <img width="1341" height="770" alt="Screenshot 2026-04-18 095818" src="https://github.com/user-attachments/assets/dd26b769-6e45-46ad-bacb-631acbc4b083" />
 
 
-# CUSLIUM VERSIONS
+## CUSLIUM VERSIONS
 
 # V1
 <img width="1698" height="938" alt="Screenshot 2025-10-13 195051" src="https://github.com/user-attachments/assets/637d3c06-46eb-408c-b74b-24852493cb14" />
@@ -37,7 +39,7 @@ Additionally, CUSLIUM provides directional awareness. When an obstacle is detect
 <img width="3024" height="2629" alt="d695a50f-4429-45c7-9d69-fb8c6573a191" src="https://github.com/user-attachments/assets/c1a274f2-8719-4b9c-a157-fcdd2e865ca3" />
 
 
-# AWARDS
+## AWARDS
 
 ![alt image ](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/img20260418_10294914.png)
 
@@ -59,6 +61,20 @@ Additionally, CUSLIUM provides directional awareness. When an obstacle is detect
 
 ![alt image](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20in%20Best%20Research%20Preseneter.png)
 
+# Documentation
+<img width="1536" height="2048" alt="567955635_1141307571468443_5051379179411724947_n" src="https://github.com/user-attachments/assets/e9b21d09-2c8f-4da2-a355-e283e1111328" />
 
+<img width="2048" height="1337" alt="579435054_1332128432262114_4021165989433631950_n" src="https://github.com/user-attachments/assets/3f2eca27-55bc-4050-b4d1-443902a8f04c" />
+
+<img width="2048" height="1365" alt="559007892_802171305728903_428011448937332770_n" src="https://github.com/user-attachme<img width="1536" height="2048" alt="590213614_122236996448091936_4300196836963410984_n" src="https://github.com/user-attachments/assets/caebde92-7cfb-4e89-aab2-aedcc5979a4b" />
+nts/assets/1a452130-0fe1-4a6b-a7a7-004aea01747f" />
+
+<img width="2048" height="1337" alt="579435054_1332128432262114_4021165989433631950_n" src="https://github.com/user-attachments/assets/43131ea6-18cc-43b5-8c1c-5a64da617ab8" />
+
+<img width="2048" height="1365" alt="579672232_1332127868928837_1659562878526109350_n" src="https://github.com/user-attachments/assets/6968a81d-dde7-4926-897d-e0749140956c" />
+
+<img width="1536" height="2048" alt="588500861_122236996334091936_1363771751329318118_n" src="https://github.com/user-attachments/assets/b5ffc128-3711-4f04-a66c-bc67796355da" />
+
+<img width="1536" height="2048" alt="590213614_122236996448091936_4300196836963410984_n" src="https://github.com/user-attachments/assets/ae837e81-2fd5-4ce1-9a95-6f3a42df8f29" />
 
 
