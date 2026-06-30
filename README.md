@@ -1,76 +1,169 @@
-## CUSLIUM
-“CUSLIUM: A Wearable Ultrasonic Haptic Helmet for Proximity and Upper-Body level Obstacle Detection for the Visually Impaired,” focuses on developing an assistive device that enhances the mobility and safety of visually impaired individuals. The helmet detects obstacles at head head level, provides immediate vibration feedback to alert the user. Designed to be lightweight, comfortable, and easy to use, Cuslium complements traditional mobility aids such as white canes, offering more comprehensive obstacle awareness. Data on functionality, usability, and effectiveness were collected through participant trials, checklists, and interviews. Results indicate that the device reliably detects obstacles and delivers timely alerts, improving spatial awareness and reducing the risk of accidents. Overall, Cuslium demonstrates strong potential as a supportive technology that promotes independence, safety, and confidence for visually impaired users.
+# CUSLIUM
 
-CUSLIUM compose of two **latin word** **"Caecus"** which means **blind** and **"Auxlium"** means **Help**
+> **CUSLIUM: A Wearable Ultrasonic Haptic Helmet for Proximity and Upper-Body Obstacle Detection for the Visually Impaired**
 
-## CONCEPT
-<img width="1920" height="1080" alt="7514a6a3-3266-4aa0-b05a-ccaa5533e24c" src="https://github.com/user-attachments/assets/00c00cb3-7717-489e-a4c7-85f7b7b77484" />
+CUSLIUM is a wearable assistive technology designed to improve the mobility, spatial awareness, and safety of individuals with visual impairments. The system utilizes ultrasonic sensors to detect obstacles at upper-body and head level, providing immediate haptic feedback through strategically placed vibration motors.
 
+Unlike traditional white canes that primarily detect obstacles on the ground, CUSLIUM extends obstacle detection to areas above waist level, reducing the risk of collisions with overhead and upper-body hazards.
 
-## PROXIMITY
-As shown in the figure below, CUSLIUM operates with a detection range of up to 1 meter, which can be further extended through software modification in the system code. As an obstacle moves closer to the ultrasonic sensor, the vibration feedback produced by the haptic module increases in intensity, allowing the user to perceive the proximity of the object in real time.
+The project was designed with a strong emphasis on comfort, portability, and ease of use, making it suitable as a complementary assistive device alongside conventional mobility aids.
 
-Additionally, CUSLIUM provides directional awareness. When an obstacle is detected on a specific side—such as the right—the vibration motor corresponding to that direction is activated. Through the combination of vibration location (direction) and vibration intensity (distance), the user is able to identify both where the obstacle is located and how close it is, enabling faster reaction and safer navigation.
-<img width="1920" height="1080" alt="cb971c30-5dc9-490f-99d2-18c703105dff" src="https://github.com/user-attachments/assets/e3f9f57e-7054-40c2-be02-748c35481622" />
+Through functionality testing, usability evaluations, participant trials, and interviews, CUSLIUM demonstrated reliable obstacle detection, timely haptic feedback, and improved user confidence during navigation.
 
-## CUSLIUM SCHEMATIC DIAGRAM (NOT COMPLETE)
-<img width="1341" height="770" alt="Screenshot 2026-04-18 095818" src="https://github.com/user-attachments/assets/dd26b769-6e45-46ad-bacb-631acbc4b083" />
+---
 
+# Project Name
 
-## CUSLIUM VERSIONS
+The name **CUSLIUM** is derived from two Latin words:
 
-# V1
-<img width="1698" height="938" alt="Screenshot 2025-10-13 195051" src="https://github.com/user-attachments/assets/637d3c06-46eb-408c-b74b-24852493cb14" />
+* **Caecus** — *Blind*
+* **Auxilium** — *Help*
 
+Together, they symbolize **"Help for the Blind."**
 
-# V2
-<img width="4608" height="3456" alt="IMG_20250724_191443" src="https://github.com/user-attachments/assets/eb8b6c48-fd49-4fde-adfc-7ba7a8ec58fe" />
+---
 
+# Concept
 
-# V3
-<img width="3456" height="3153" alt="IMG_20250727_213925" src="https://github.com/user-attachments/assets/e20d6570-54f3-46dd-afed-07adf7507706" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/00c00cb3-7717-489e-a4c7-85f7b7b77484" width="900">
+</p>
 
+---
 
-# V4
-<img width="3456" height="3490" alt="IMG_20250917_214912" src="https://github.com/user-attachments/assets/688d8b60-eb1a-42f3-9057-e3cafb1852b2" />
+# System Overview
 
+CUSLIUM employs ultrasonic distance sensors to continuously monitor the environment for obstacles located around the user's upper body and head.
 
-# V5
-<img width="3024" height="2629" alt="d695a50f-4429-45c7-9d69-fb8c6573a191" src="https://github.com/user-attachments/assets/c1a274f2-8719-4b9c-a157-fcdd2e865ca3" />
+When an obstacle enters the detection range, the corresponding vibration motor immediately activates, notifying the user through tactile feedback.
 
+The system communicates two important pieces of information:
 
-## AWARDS
+* **Direction** — The activated vibration motor indicates whether the obstacle is located on the left, center, or right side.
+* **Distance** — The vibration intensity increases as the obstacle becomes closer, allowing the user to estimate proximity in real time.
 
-![alt image ](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/img20260418_10294914.png)
+This combination of directional and distance-based feedback enables users to react quickly while maintaining awareness of their surroundings.
 
+---
 
-![alt image](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/Best%20science%20exhibit%202025.png)
+# Proximity Detection
 
+CUSLIUM currently operates with a detection range of **up to 1 meter**, which can be adjusted through software modifications.
 
-![alt image](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20District%20Science%20and%20technology%20fair%202025.png)
+As an object approaches:
 
+* Low vibration intensity indicates that the obstacle is relatively far away.
+* Higher vibration intensity indicates that the obstacle is much closer.
 
-![alt image](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/2nd%20place%20Division%20Science%20and%20technology%20fair%202025.png)
+Directional vibration further allows the user to identify where the obstacle is located, providing intuitive navigation assistance.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e3f9f57e-7054-40c2-be02-748c35481622" width="900">
+</p>
 
-![alt image](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/2nd%20place%20Regional%20Science%20and%20technology%20fair%202025.png)
+---
 
+# Schematic Diagram *(Work in Progress)*
 
-![alt image](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20in%20Best%20%20Oral%20Research%20Preseneter.png)
+The electronic schematic is currently under development and will be updated as the project progresses.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dd26b769-6e45-46ad-bacb-631acbc4b083" width="900">
+</p>
 
-![alt image](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20in%20Best%20Research%20Preseneter.png)
+---
+
+# Prototype Evolution
+
+CUSLIUM underwent several design iterations to improve usability, ergonomics, and system reliability.
+
+## Version 1
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/637d3c06-46eb-408c-b74b-24852493cb14" width="900">
+</p>
+
+---
+
+## Version 2
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/eb8b6c48-fd49-4fde-adfc-7ba7a8ec58fe" width="500">
+</p>
+
+---
+
+## Version 3
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e20d6570-54f3-46dd-afed-07adf7507706" width="500">
+</p>
+
+---
+
+## Version 4
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/688d8b60-eb1a-42f3-9057-e3cafb1852b2" width="500">
+</p>
+
+---
+
+## Version 5 (Current Prototype)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c1a274f2-8719-4b9c-a157-fcdd2e865ca3" width="500">
+</p>
+
+---
+
+# Awards and Recognition
+
+CUSLIUM has received recognition in multiple science and technology competitions.
+
+* 🏆 Best Science Exhibit (2025)
+* 🥇 1st Place — District Science and Technology Fair (2025)
+* 🥈 2nd Place — Division Science and Technology Fair (2025)
+* 🥈 2nd Place — Regional Science and Technology Fair (2025)
+* 🥇 Best Oral Research Presenter
+* 🥇 Best Research Presenter
+
+<p align="center">
+
+![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/img20260418_10294914.png)
+
+![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/Best%20science%20exhibit%202025.png)
+
+![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20District%20Science%20and%20technology%20fair%202025.png)
+
+![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/2nd%20place%20Division%20Science%20and%20technology%20fair%202025.png)
+
+![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/2nd%20place%20Regional%20Science%20and%20technology%20fair%202025.png)
+
+![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20in%20Best%20%20Oral%20Research%20Preseneter.png)
+
+![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20in%20Best%20Research%20Preseneter.png)
+
+</p>
+
+---
 
 # Documentation
 
-<img width="2048" height="1365" alt="579672232_1332127868928837_1659562878526109350_n" src="https://github.com/user-attachments/assets/6968a81d-dde7-4926-897d-e0749140956c" />
+The following photographs document the development, testing, presentation, and evaluation of the CUSLIUM project.
 
-<img width="2048" height="1337" alt="579435054_1332128432262114_4021165989433631950_n" src="https://github.com/user-attachments/assets/3f2eca27-55bc-4050-b4d1-443902a8f04c" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6968a81d-dde7-4926-897d-e0749140956c" width="400">
 
-<img width="1536" height="2048" alt="567955635_1141307571468443_5051379179411724947_n" src="https://github.com/user-attachments/assets/e9b21d09-2c8f-4da2-a355-e283e1111328" />
+<img src="https://github.com/user-attachments/assets/3f2eca27-55bc-4050-b4d1-443902a8f04c" width="400">
 
-<img width="1536" height="2048" alt="588500861_122236996334091936_1363771751329318118_n" src="https://github.com/user-attachments/assets/b5ffc128-3711-4f04-a66c-bc67796355da" />
+<img src="https://github.com/user-attachments/assets/e9b21d09-2c8f-4da2-a355-e283e1111328" width="400">
 
-<img width="1536" height="2048" alt="590213614_122236996448091936_4300196836963410984_n" src="https://github.com/user-attachments/assets/ae837e81-2fd5-4ce1-9a95-6f3a42df8f29" />
+<img src="https://github.com/user-attachments/assets/b5ffc128-3711-4f04-a66c-bc67796355da" width="400">
+
+<img src="https://github.com/user-attachments/assets/ae837e81-2fd5-4ce1-9a95-6f3a42df8f29" width="400">
+</p>
+
+---
 
 
