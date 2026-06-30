@@ -164,6 +164,10 @@ The following photographs document the development, testing, presentation, and e
 <img src="https://github.com/user-attachments/assets/ae837e81-2fd5-4ce1-9a95-6f3a42df8f29" width="400">
 </p>
 
----
+## Copyright Notice
+
+This repository is shared for documentation and educational purposes.
+
+All rights are reserved. No permission is granted to copy, modify, redistribute, or commercialize any part of this project without prior written permission from the author.
 
 
