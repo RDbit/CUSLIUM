@@ -114,16 +114,4 @@ void loop() {
 
   u8g2.sendBuffer();
 
-  delay(100); //tguytuj thuyyhgjgjgjyyjf si ardee gwapoiuedhfu igdsugsdufgugsd
-
-
-  u8g2.drawStr(0, 48, "RIGHT:");
-  u8g2.setCursor(50, 48);
-  u8g2.print(distanceR);
-  u8g2.print("cm");
-
-  u8g2.drawStr(0, 64, "PWM R:");
-  u8g2.setCursor(50, 64);
-  u8g2.print(pwmR);
-
-  u8g2.sendBuffer();
+  delay(100); //tguytuj thuyyhgjgjgjyyjf si ardee gwapoiu
