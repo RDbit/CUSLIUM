@@ -121,12 +121,13 @@ CUSLIUM underwent several design iterations to improve usability, ergonomics, an
 
 CUSLIUM has received recognition in multiple science and technology competitions.
 
-* 🏆 Best Science Exhibit (2025)
-* 🥇 1st Place — District Science and Technology Fair (2025)
-* 🥈 2nd Place — Division Science and Technology Fair (2025)
-* 🥈 2nd Place — Regional Science and Technology Fair (2025)
-* 🥇 Best Oral Research Presenter
-* 🥇 Best Research Presenter
+* Best in Innovation 2026
+* 1st Placer in Best Research Paper (Applied Research 2026)
+* 1st Placer Best Oral Research Presenter (Applied Research 2026)
+* 2nd in Science and Technology Fair (REGIONAL)
+* 2nd in Science and Technology Fair (DIVISION)
+* 1st in Science and Technology Fair (DISTRICT 2025)
+* 1st Best Science Exhibit Display (SCHOOL-BASED STF 2025)
 
 <p align="center">
 
