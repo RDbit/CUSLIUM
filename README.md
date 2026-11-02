@@ -130,20 +130,19 @@ CUSLIUM has received recognition in multiple science and technology competitions
 * 1st Best Science Exhibit Display (SCHOOL-BASED STF 2025)
 
 <p align="center">
+<img width="1002" height="667" alt="image" src="https://github.com/user-attachments/assets/9bfd9ac3-994a-4fbc-aab5-358fbaf27e2c" />
 
-![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/img20260418_10294914.png)
+<img width="802" height="623" alt="image" src="https://github.com/user-attachments/assets/1f01a72e-a3dc-4b42-84d1-f846890aa869" />
 
-![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/Best%20science%20exhibit%202025.png)
+<img width="6248" height="4352" alt="1st place District Science and technology fair 2025" src="https://github.com/user-attachments/assets/23db53a0-5c63-4b14-8849-5e076c0706a8" />
 
-![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20District%20Science%20and%20technology%20fair%202025.png)
+<img width="6704" height="4688" alt="2nd place Division Science and technology fair 2025" src="https://github.com/user-attachments/assets/3e5ddb74-49ad-444e-8fb8-43da9a39ca7d" />
 
-![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/2nd%20place%20Division%20Science%20and%20technology%20fair%202025.png)
+<img width="898" height="668" alt="image" src="https://github.com/user-attachments/assets/a771ac4a-1c5f-409a-b6f7-39d193822981" />
 
-![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/2nd%20place%20Regional%20Science%20and%20technology%20fair%202025.png)
+<img width="1005" height="662" alt="image" src="https://github.com/user-attachments/assets/9e5fbdac-6592-4a31-aa58-9bc695c0734b" />
 
-![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20in%20Best%20%20Oral%20Research%20Preseneter.png)
-
-![](https://github.com/RDbit/Fileimages/blob/73bdcdf584adcc1d2266ae059a3240e40646f5a6/Cusliumfiles/Awards/1st%20place%20in%20Best%20Research%20Preseneter.png)
+<img width="1002" height="665" alt="image" src="https://github.com/user-attachments/assets/81c714ae-3871-4146-9f0e-6737c53fef08" />
 
 </p>
 
